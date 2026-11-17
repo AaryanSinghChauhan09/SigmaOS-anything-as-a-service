@@ -3,7 +3,7 @@ name = "SigmaOS-anything-as-a-service"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "anything-as-a-service component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
